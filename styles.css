@@ -1,0 +1,21 @@
+h1{
+    color: Blue;
+    font-family: 'Spicy Rice', cursive;
+}
+body{
+    background-color:lavender;
+}
+li{
+    font-family: 'Playfair Display SC', serif;
+    color:red;
+}
+img{
+    width:500px;
+    height:300px;
+}
+h2{
+    font-family: 'Carter One', cursive;
+}
+body {
+   background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/16/63/7458257dbdd3f88.jpg");
+}
